@@ -1,0 +1,17 @@
+{
+  "name": "web_pemasaran_hasil_pertanian_desa_singosari",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "erikbudi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.7",
+    "mongose": "0.0.2-security",
+    "nodemon": "^2.0.7"
+  }
+}
